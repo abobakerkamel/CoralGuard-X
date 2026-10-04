@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project data / generated files
+data/raw/
+data/Coral_Reef_AI_Project/
+data/Coral_video/
+cache/
+outputs/*
+!outputs/README.md
+models/*
+!models/README.md
+third_party/*
+!third_party/README.md
+runs/
+wandb/
+
+# Model checkpoints / exports
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.torchscript
+
+# Large media / archives
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Logs / temporary
+*.log
+*.tmp
+*.temp
