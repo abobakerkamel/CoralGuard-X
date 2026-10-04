@@ -1,0 +1,267 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 283,
+    "sha256": "272fd4ce9238049ba9bfb5c948fc5ecf12467de350fda8f1a1d4ef2f67febc11"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 558,
+    "sha256": "9c6707accc37ca399dea490f481b29d5d3c43d79b969b00d5bb990bbbec00897"
+  },
+  {
+    "path": "ARCHITECTURE.md",
+    "bytes": 2349,
+    "sha256": "bb63f3bcb17c1a056ab9e1dfaf272db18d8c293f5fbc2028fef4b53671868896"
+  },
+  {
+    "path": "MODEL_METRICS.md",
+    "bytes": 2826,
+    "sha256": "261dc4b786b6c344a16b8ad13e13c82add364ba08b7da6f910d74d36b3954de6"
+  },
+  {
+    "path": "PROJECT_STATUS.md",
+    "bytes": 2549,
+    "sha256": "f0bebfd1d831c0e67898b8cd403d1ad5866089779d3e616b66f6cd27212fe9a3"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6979,
+    "sha256": "28954bf7647ad615462608e3e9c99c4ca1960c4bac4bf3a73671ac769134113c"
+  },
+  {
+    "path": "RUN_ORDER.md",
+    "bytes": 1298,
+    "sha256": "293fef27a636eeef888e51549a8f6d19f8a496616fc9eb1486588e26e6c37369"
+  },
+  {
+    "path": "SETUP_WINDOWS.md",
+    "bytes": 1946,
+    "sha256": "638be094dbe69a97f6e32adba43cbd12376f5f6a89bfe3e45003df9030e19ad8"
+  },
+  {
+    "path": "THIRD_PARTY_AND_LICENSES.md",
+    "bytes": 1468,
+    "sha256": "840b8bdb26e5233d01c72a91363d78f6cf7abbb0ef62b3b29748f61e89952a5c"
+  },
+  {
+    "path": "TROUBLESHOOTING.md",
+    "bytes": 4116,
+    "sha256": "0df7b793e56d9b9595355c84e6687a1c32c03d1f98f1219fa861d2edd9cf8a5b"
+  },
+  {
+    "path": "UPLOAD_TO_GITHUB.md",
+    "bytes": 1251,
+    "sha256": "c18e5ae28c89154c3db46eb698cb1d2f2eaaacbb08005d344f377d383ad9dd87"
+  },
+  {
+    "path": "assets/results/Coral_Current_Results_Stage3_MobileNetV4.png",
+    "bytes": 118503,
+    "sha256": "d606d3c72ee7ab65ae671076bb9fdd791c7d45082f15868b47ad3e721f90867b"
+  },
+  {
+    "path": "assets/results/Coral_Project_Stage3_MobileNetV4_Evaluation_Matrix.png",
+    "bytes": 370380,
+    "sha256": "e1a0c33482acc9734384ff154205eb1e8142e12efee6655a73ce439e22e431d6"
+  },
+  {
+    "path": "assets/sample_detection/WavingHand_71.JPG",
+    "bytes": 600267,
+    "sha256": "bad711b35273d01f2818fe6e2d7b23b92079d99247a1e3ac6fec20c8c6309021"
+  },
+  {
+    "path": "assets/sample_detection/WavingHand_71.json",
+    "bytes": 798,
+    "sha256": "00cc1b50aee6225ac43955d55aade1f1e869221245daa86fd74be2ba0545505a"
+  },
+  {
+    "path": "data/README.md",
+    "bytes": 845,
+    "sha256": "f3a8a397af793ace61bd535441683924d5a95c61dc85aa9b498eae58094fe543"
+  },
+  {
+    "path": "docs/MASTER_PROJECT_KNOWLEDGE_BASE.docx",
+    "bytes": 10431875,
+    "sha256": "f2f1ede5252a088d04d11afde2d024ab8df12c1de660e723ca3eba4be8e3643d"
+  },
+  {
+    "path": "docs/MASTER_PROJECT_KNOWLEDGE_BASE.pdf",
+    "bytes": 2690214,
+    "sha256": "1bbc06dc5317722a2f88906ca8d0f4834c873e8ba0bfabe093ae46c6848e9765"
+  },
+  {
+    "path": "docs/planning/Coral_Reef_4_Experiments_Full_Architecture_Guide(1).pdf",
+    "bytes": 1995816,
+    "sha256": "ffe7c982932346928b3beb1e0fe588d6cde4c8218a0dc8e5862f04e582c6dfa0"
+  },
+  {
+    "path": "docs/planning/Coral_Reef_AI_Project_Planning_Detaileds.pdf",
+    "bytes": 265388,
+    "sha256": "27b648d43c78fe3f8942208b6417002dfcc1d627462d274f8fd0b56a2e26326e"
+  },
+  {
+    "path": "docs/planning/Coral_Reef_Dataset_Audit_Diversity_and_Gap_Mitigation_Guide(1).pdf",
+    "bytes": 364308,
+    "sha256": "ad9426eb899ebf7b06f0afc0ae56bb7f9bd29acc514db87210257b98625c3632"
+  },
+  {
+    "path": "docs/planning/Coral_Reef_Three_Data_Sources_and_Action_Plan(1).pdf",
+    "bytes": 222255,
+    "sha256": "77e7f1d4b94f3283e6755e118cb5a9b1f6fee19ddc72e472b25041aa0f75b815"
+  },
+  {
+    "path": "docs/presentation/Coral_Reef_AI_7_Slide_Presentation.pptx",
+    "bytes": 6384653,
+    "sha256": "e7e84c11b335c982063558d50e531a4b20d43fbe8d03dee7ef5752dc15398f21"
+  },
+  {
+    "path": "docs/presentation/coral_pipeline_yolo_mobilenet_evolution_presentation.pptx",
+    "bytes": 330052,
+    "sha256": "6d77b984e37ac6924af062769190bed1a1de011078266e6032fae18f1b23bde4"
+  },
+  {
+    "path": "docs/presentation/coral_pipeline_yolo_mobilenet_evolution_presentation_EN.pptx",
+    "bytes": 50383,
+    "sha256": "4ac57770d416912fd3e832440ca15875fd255f6333a3a9af4fed88cdf196cb29"
+  },
+  {
+    "path": "models/README.md",
+    "bytes": 790,
+    "sha256": "5208524626cbb63aba6d33f1c45ca4aa159fec902a87cddf6a21616c92f5773a"
+  },
+  {
+    "path": "notebooks/01_baselines/Coral_Classification_MobileNetV4_Small050.ipynb",
+    "bytes": 20386,
+    "sha256": "6396ccd1c8f8f0710b98916e7d85edf7c04132e5ecf80ee2093489b88d4e2bc8"
+  },
+  {
+    "path": "notebooks/01_baselines/RFDETR_Large_ConvNeXtSmall_Full_Coral_Pipeline.ipynb",
+    "bytes": 40677,
+    "sha256": "373db33ab1094807de3674cf2e0bba3901dc8b4124603b8bb6764130cb35711a"
+  },
+  {
+    "path": "notebooks/01_baselines/YOLO11n_Coral_Detection_10Epochs.ipynb",
+    "bytes": 13982,
+    "sha256": "e0a4fa95f7750c4f24391b3083870f315c5353924979742f8bd764141c5978b3"
+  },
+  {
+    "path": "notebooks/02_yolo11_improvements/YOLO11n_P2_Stage4_1_HybridRecovery_Standalone.ipynb",
+    "bytes": 77346,
+    "sha256": "dbdb8585904eca19d6cecee4368c6a8fde9a767b474b9a89dbfd4178426d28d6"
+  },
+  {
+    "path": "notebooks/02_yolo11_improvements/YOLO11n_P2_Stage4_SmallPriority_Coral.ipynb",
+    "bytes": 99922,
+    "sha256": "7a79bc90e6e4ff2f9ed6cae7dd51707b51718687d617e749a53a1461b71abbd1"
+  },
+  {
+    "path": "notebooks/02_yolo11_improvements/YOLO11n_Stage3_1_RAM_SAFE_v2.ipynb",
+    "bytes": 129739,
+    "sha256": "dc9eec5538af4c6df253773befd366be1d271367ff569255851312a8d35474a3"
+  },
+  {
+    "path": "notebooks/02_yolo11_improvements/YOLO11n_Stage3_1_SmallHardPriority_Localization_Finetune.ipynb",
+    "bytes": 122661,
+    "sha256": "194fdace96fcfddd10517cba0ca2aca780e3601c21889b5927b7da6b69b26490"
+  },
+  {
+    "path": "notebooks/02_yolo11_improvements/YOLO11n_Stage3_Targeted_Sliced_Finetune_SAHI.ipynb",
+    "bytes": 62306,
+    "sha256": "45678783e81ffde874f2b8198da615159859ce359401e831b17d2075acdae112"
+  },
+  {
+    "path": "notebooks/02_yolo11_improvements/YOLO11n_Validation_Error_Audit.ipynb",
+    "bytes": 51913,
+    "sha256": "9adbb09d5bc7e06b3f57f71922774d896dc95463e42e44b58d14ec565827d47a"
+  },
+  {
+    "path": "notebooks/03_integrated_v1/Coral_End_to_End_Stage3_MobileNetV4_V3_Validation.ipynb",
+    "bytes": 71771,
+    "sha256": "e4d6083119bf9eecc2f6e34faf1ddd39598d0022099f558cc71bd6f1f368fd9d"
+  },
+  {
+    "path": "notebooks/03_integrated_v1/Coral_Video_Inference_Stage3_MobileNetV4_V3.ipynb",
+    "bytes": 57240,
+    "sha256": "aeef95bdf22bf6f367eb26b449ce0325f0531f6bd07b0dbac522809338816380"
+  },
+  {
+    "path": "notebooks/03_integrated_v1/Coral_Video_V2_BoTSORT_Stable_Boxes_Large_Text.ipynb",
+    "bytes": 67966,
+    "sha256": "2292d8e3fd505f1dde81ab514ee4c6c501d09cfea672bac792c78b8c890cb9ce"
+  },
+  {
+    "path": "notebooks/04_yolo26_effnetv2/YOLO26m_Continue_50ep_From_Best_Colab.ipynb",
+    "bytes": 14647,
+    "sha256": "f26f546e7fa48858740461f758a0ebdf19f51305e5d70b587fe65c027f0ca18f"
+  },
+  {
+    "path": "notebooks/04_yolo26_effnetv2/YOLO26m_EfficientNetV2S_Colab_Resume_VIDEO_ONLY.ipynb",
+    "bytes": 31519,
+    "sha256": "7b86157a94cf37d4f825cb5285488d266aa5a76870007161426bf4233f3d00a4"
+  },
+  {
+    "path": "notebooks/04_yolo26_effnetv2/YOLO26m_EfficientNetV2S_Colab_Resume_inferance_PATH.ipynb",
+    "bytes": 31353,
+    "sha256": "44d0302ca30367304417dcc39847e8c30bcc027b218570c6c131d5884819407f"
+  },
+  {
+    "path": "notebooks/04_yolo26_effnetv2/YOLO26m_EfficientNetV2S_Full_Coral_Pipeline.ipynb",
+    "bytes": 43478,
+    "sha256": "342518604faf1acdddda1777199f737be4738f8ca0d31c78e311cb0f2f196ab3"
+  },
+  {
+    "path": "notebooks/04_yolo26_effnetv2/YOLO26m_EfficientNetV2S_PLUS150_EACH_Colab.ipynb",
+    "bytes": 53012,
+    "sha256": "20bf20a6a46bff997550ab6e393777509b14cc02eb94f3cdf2471c39d6614778"
+  },
+  {
+    "path": "notebooks/05_segmentation_teacher_student/CoralGuard_X_FINAL_Hybrid_Coral_Pipeline_Colab.ipynb",
+    "bytes": 54576,
+    "sha256": "142fe860023cf74de55405d704f50a440aec784eb7576e7bda63c8e7253eddf5"
+  },
+  {
+    "path": "notebooks/05_segmentation_teacher_student/CoralGuard_X_FINAL_Hybrid_Coral_Pipeline_LOCAL_Windows.ipynb",
+    "bytes": 61153,
+    "sha256": "ce38370f95e9e3e45c5775ea51a90c7ca7af49cbd4d2880ca9a59d78b5a60d3d"
+  },
+  {
+    "path": "notebooks/05_segmentation_teacher_student/CoralGuard_X_V2_FINAL_Teacher_Student_LOCAL_Windows.ipynb",
+    "bytes": 196077,
+    "sha256": "1fce7f562df234cd909f02533f46dce69097dbcc5820a737c448bc101d966973"
+  },
+  {
+    "path": "notebooks/06_final_accuracy_first/CoralGuard_X_ACCURACY_FIRST_YOLO_CoralSCOP_DualView_SAM2_LOCAL.ipynb",
+    "bytes": 123075,
+    "sha256": "c771b4414fcce2d0ce0030c315ab7857f301ed9daa1aff8c9d99e8738b5435bf"
+  },
+  {
+    "path": "notebooks/README.md",
+    "bytes": 1011,
+    "sha256": "19b3ce3822968833a6fc2b1e78f017128ee35bd4e35fc91cf65c2a8f2f11ab57"
+  },
+  {
+    "path": "outputs/README.md",
+    "bytes": 572,
+    "sha256": "516d178a6ce6ecd3398b79d8784c66add3bf60b548d74af0fc9d529c3dc67f47"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 304,
+    "sha256": "182bf135a62dbb473a128e9a8d9feeafed2bd05b74067c302a80d8071fa1d2d5"
+  },
+  {
+    "path": "scripts/check_environment.py",
+    "bytes": 1031,
+    "sha256": "13be60a04945eac8fd9a8c21c3cb8770c953136e941e57076b2509377a27d7c5"
+  },
+  {
+    "path": "scripts/repo_health_check.py",
+    "bytes": 708,
+    "sha256": "f38cec462b5036f7e183597740d372948174a043e3a7ae3e4b2f9d14f71dbcbc"
+  },
+  {
+    "path": "third_party/README.md",
+    "bytes": 418,
+    "sha256": "81a9f39793443648d51c3d96b56374335789e9987262d2d8e43b0259971f2185"
+  }
+]

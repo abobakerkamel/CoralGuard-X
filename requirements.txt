@@ -1,0 +1,16 @@
+# Install the appropriate PyTorch/CUDA build separately for your machine.
+# Verified project environment used torch 2.11.0 + CUDA 12.8 build.
+
+ultralytics==8.4.117
+timm==1.0.22
+pandas==3.0.5
+scikit-learn==1.9.0
+scipy==1.18.0
+Pillow==12.2.0
+numpy
+opencv-python
+matplotlib
+tqdm
+ipywidgets
+jupyter
+notebook
